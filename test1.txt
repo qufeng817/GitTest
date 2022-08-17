@@ -2,4 +2,4 @@
 abcdefg
 add happy
 add happy+1
-click1
+click2
